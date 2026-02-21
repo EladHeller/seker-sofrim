@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/EladHeller/sekerSofrim#readme",
   "dependencies": {
-    "@aws-sdk/client-lambda": "^3.749.0",
+    "@aws-sdk/client-lambda": "^3.995.0",
     "@welldone-software/env-config": "^1.1.1",
     "archiver": "^3.0.0",
     "cookie-parser": "^1.4.7",
